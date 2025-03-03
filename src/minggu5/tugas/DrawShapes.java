@@ -1,4 +1,4 @@
-package minggu5;
+package minggu5.tugas;
 
 import java.applet.Applet;
 import java.awt.*;

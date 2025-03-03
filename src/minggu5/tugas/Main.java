@@ -1,4 +1,4 @@
-package minggu5;
+package minggu5.tugas;
 
 public class Main {
 
